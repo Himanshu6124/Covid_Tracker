@@ -13,4 +13,4 @@ chartJS <br/>
 leaflet library <br/>
 
 
-[Deployed link ]([https://link-url-here.org](https://covid-trackerapplication.netlify.app/))
+[Deployed link ](https://covid-trackerapplication.netlify.app/)
